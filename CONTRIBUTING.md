@@ -81,10 +81,6 @@ Before you submit your pull request consider the following guidelines:
 
 * Build your changes locally to ensure all the tests pass:
 
-    ```shell
-    TODO
-    ```
-
 * Push your branch to GitHub:
 
     ```shell
@@ -137,7 +133,7 @@ from the main (upstream) repository:
 ## <a name="rules"></a> Coding Rules
 To ensure consistency throughout the source code, keep these rules in mind as you are working:
 
-* TODO
+* To be written…
 
 
 ## <a name="commit"></a> Git Commit Guidelines
