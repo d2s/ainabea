@@ -48,4 +48,9 @@ group :development do
   # which checks Ruby on Rails applications for security vulnerabilities.
   # https://github.com/presidentbeef/brakeman
   gem 'brakeman', :require => false
+
+  # Code quality threshold checking as part of your build
+  # Fails your build if code quality thresholds are not met
+  # https://github.com/square/cane
+  gem 'cane', '~> 2.6', '>= 2.6.2'
 end
