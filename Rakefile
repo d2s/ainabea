@@ -6,18 +6,10 @@ require File.expand_path('../config/application', __FILE__)
 Rails.application.load_tasks
 
 
-begin
-  require 'cane/rake_task'
 
-  desc "Run cane to check quality metrics"
-  Cane::RakeTask.new(:quality) do |cane|
-    cane.abc_max = 10
-    cane.add_threshold 'coverage/covered_percent', :>=, 99
-    cane.no_style = true
-    cane.abc_exclude = %w(Foo::Bar#some_method)
-  end
-
-  #task :default => :quality
-rescue LoadError
-  warn "cane not available, quality task not provided."
-end
+# Quality is a tool that runs quality checks on your code using community tools,
+# and makes sure your numbers don't get any worse over time.
+# Just add 'rake quality' as part of your Continuous Integration.
+# https://github.com/apiology/quality#how-to-use
+require 'quality/rake/task'
+Quality::Rake::Task.new

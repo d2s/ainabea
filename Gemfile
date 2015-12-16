@@ -49,8 +49,10 @@ group :development do
   # https://github.com/presidentbeef/brakeman
   gem 'brakeman', :require => false
 
-  # Code quality threshold checking as part of your build
-  # Fails your build if code quality thresholds are not met
-  # https://github.com/square/cane
-  gem 'cane', '~> 2.6', '>= 2.6.2'
+
+  # Quality is a tool that runs quality checks on your code using community tools,
+  # and makes sure your numbers don't get any worse over time.
+  # https://github.com/apiology/quality
+  gem 'quality', '~> 17.2'
+
 end
