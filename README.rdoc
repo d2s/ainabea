@@ -1,5 +1,10 @@
 == README
+
 {<img src="https://www.versioneye.com/user/projects/56713c65107997002d0004b8/badge.svg?style=flat" alt="Dependency Status" />}[https://www.versioneye.com/user/projects/56713c65107997002d0004b8]
+{<img src="https://codeclimate.com/github/d2s/ainabea/badges/gpa.svg" />}[https://codeclimate.com/github/d2s/ainabea]
+{<img src="https://codeclimate.com/github/d2s/ainabea/badges/coverage.svg" />}[https://codeclimate.com/github/d2s/ainabea/coverage]
+{<img src="https://codeclimate.com/github/d2s/ainabea/badges/issue_count.svg" />}[https://codeclimate.com/github/d2s/ainabea]
+
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
