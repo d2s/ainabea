@@ -1,4 +1,5 @@
 == README
+{<img src="https://www.versioneye.com/user/projects/56713c65107997002d0004b8/badge.svg?style=flat" alt="Dependency Status" />}[https://www.versioneye.com/user/projects/56713c65107997002d0004b8]
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
