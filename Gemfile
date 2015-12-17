@@ -37,6 +37,12 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # https://codeship.com/documentation/analytics/code-climate/
 gem "codeclimate-test-reporter", group: :test, require: nil
 
+# Codecov code coverage testing
+# https://github.com/integrations/codecov
+# https://codecov.io/
+gem 'codecov', :require => false, :group => :test
+
+
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console

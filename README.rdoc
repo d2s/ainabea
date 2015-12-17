@@ -4,6 +4,7 @@
 {<img src="https://codeclimate.com/github/d2s/ainabea/badges/gpa.svg" />}[https://codeclimate.com/github/d2s/ainabea]
 {<img src="https://codeclimate.com/github/d2s/ainabea/badges/coverage.svg" />}[https://codeclimate.com/github/d2s/ainabea/coverage]
 {<img src="https://codeclimate.com/github/d2s/ainabea/badges/issue_count.svg" />}[https://codeclimate.com/github/d2s/ainabea]
+{<img src="https://codecov.io/github/d2s/ainabea/coverage.svg?branch=master" alt="Coverage via Codecov" />}[https://codecov.io/github/d2s/ainabea?branch=master]
 
 
 This README would normally document whatever steps are necessary to get the

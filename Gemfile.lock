@@ -75,6 +75,10 @@ GEM
       virtus (~> 1.0)
     codeclimate-test-reporter (0.4.8)
       simplecov (>= 0.7.1, < 1.0.0)
+    codecov (0.1.2)
+      json
+      simplecov
+      url
     coercible (1.0.0)
       descendants_tracker (~> 0.0.1)
     coffee-rails (4.1.0)
@@ -268,6 +272,7 @@ GEM
       equalizer (~> 0.0.9)
       parser (~> 2.2.2)
       procto (~> 0.0.2)
+    url (0.3.2)
     virtus (1.0.5)
       axiom-types (~> 0.1)
       coercible (~> 1.0)
@@ -286,6 +291,7 @@ DEPENDENCIES
   bundler-audit (~> 0.4.0)
   byebug
   codeclimate-test-reporter
+  codecov
   coffee-rails (~> 4.1.0)
   jbuilder (~> 2.0)
   jquery-rails
