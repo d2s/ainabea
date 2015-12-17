@@ -1,0 +1,8 @@
+# https://houndci.com/configuration
+
+scss:
+  config_file: .scss-style.yml
+
+jscs:
+  enabled: true
+  #config_file: .jscsrc
