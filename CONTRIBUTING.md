@@ -1,7 +1,7 @@
 # Contributing to ainabea
 
-We'd love for you to contribute to our source code and to make ainabea even better than it is
-today! Here are the guidelines we'd like you to follow:
+We'd love for you to contribute to our source code and to make ainabea even better!
+Here are the guidelines we'd like you to follow:
 
  - [Issues and Bugs](#issue)
  - [Feature Requests](#feature)
@@ -158,8 +158,8 @@ format that includes a **type**, a **scope** and a **subject**:
 
 The **header** is mandatory and the **scope** of the header is optional.
 
-Any line of the commit message cannot be longer 100 characters! This allows the message to be easier
-to read on GitHub as well as in various git tools.
+Any line of the commit message cannot be longer 100 characters!
+This allows the message to be easier to read on GitHub as well as in various git tools.
 
 ### Revert
 If the commit reverts a previous commit, it should begin with `revert: `, followed by the header of the reverted commit. In the body it should say: `This reverts commit <hash>.`, where the hash is the SHA of the commit being reverted.
@@ -199,7 +199,7 @@ reference GitHub issues that this commit **Closes**.
 
 **Breaking Changes** should start with the word `BREAKING CHANGE:` with a space or two newlines. The rest of the commit message is then used for this.
 
-A detailed explanation can be found in this [document][commit-message-format].
+A detailed explanation is in this [document][commit-message-format].
 
 
 ## <a name="info"></a> Further Information
