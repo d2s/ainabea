@@ -100,6 +100,7 @@ GEM
     docile (1.1.5)
     equalizer (0.0.11)
     erubis (2.7.0)
+    evil_icons (1.7.8)
     execjs (2.6.0)
     fastercsv (1.5.5)
     flay (2.6.1)
@@ -293,6 +294,7 @@ DEPENDENCIES
   codeclimate-test-reporter
   codecov
   coffee-rails (~> 4.1.0)
+  evil_icons
   jbuilder (~> 2.0)
   jquery-rails
   pg (~> 0.15)

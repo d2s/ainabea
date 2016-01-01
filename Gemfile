@@ -16,7 +16,8 @@ gem 'coffee-rails', '~> 4.1.0'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
-# Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
+# Turbolinks makes following links in your web application faster.
+# Read more: https://github.com/rails/turbolinks
 gem 'turbolinks'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.0'
@@ -41,6 +42,12 @@ gem "codeclimate-test-reporter", group: :test, require: nil
 # https://github.com/integrations/codecov
 # https://codecov.io/
 gem 'codecov', :require => false, :group => :test
+
+
+# Evil Icons - Set of SVG icons designed specifically for web projects.
+# List of icons: http://evil-icons.io/
+# Usage instructions: https://github.com/outpunk/evil-icons#rails
+gem 'evil_icons'
 
 
 
