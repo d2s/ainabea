@@ -86,6 +86,12 @@ group :development do
   # https://github.com/railsbp/rails_best_practices
   gem 'rails_best_practices', '~> 1.15', '>= 1.15.7'
 
+  # csscss will parse any CSS files you give it
+  # and let you know which rulesets have duplicated declarations.
+  # https://github.com/zmoazeni/csscss
+  # https://zmoazeni.github.io/csscss/
+  # https://rubygems.org/gems/csscss
+  gem 'csscss', '~> 1.3', '>= 1.3.3'
 
   # Configurable tool for writing clean and consistent SCSS
   # https://github.com/brigade/scss-lint
