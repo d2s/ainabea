@@ -1,0 +1,26 @@
+{
+  "name": "ainabea",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Learning to use Rails",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d2s/ainabea.git"
+  },
+  "keywords": [
+    "Rails"
+  ],
+  "author": "Daniel Schildt <daniel@autiomaa.org> (https://github.com/d2s)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d2s/ainabea/issues"
+  },
+  "homepage": "https://github.com/d2s/ainabea#readme"
+}
